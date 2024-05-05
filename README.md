@@ -1,5 +1,5 @@
 # Movies App
-Esta es una app de prueba para mostrar en vide de deploy en heroku.
+Esta es una app de prueba 
 
 Para poder hacerlo funcional deben clonar el repo y dentro de la carpeta hacer:
 
