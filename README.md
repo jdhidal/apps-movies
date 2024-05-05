@@ -1,5 +1,5 @@
 # Movies App
-Esta es una app de prueba 
+Esta es una app de prueba // admin
 
 Para poder hacerlo funcional deben clonar el repo y dentro de la carpeta hacer:
 
